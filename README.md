@@ -4,7 +4,7 @@
 
 Repo containing the releases of the Resurrección Editor and Resurrección Mod Manager, along with any other miscellaneous tools released as part of the toolkit. The purpose of this toolkit is to modify the game Bleach: Soul Resurrección/Ignition and it's demo releases; not modify as in cheats but modify as in textures, models, animations, etc.
 
-Discord Support: https://discord.gg/CxAT9mD
+Discord Support: https://discord.gg/2yfxG6X
 
 Requires .NET Framework 4.7.2
 
