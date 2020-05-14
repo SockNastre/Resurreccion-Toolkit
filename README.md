@@ -1,6 +1,6 @@
 ## Resurrección Toolkit
 
-**UPDATE 05/14/2020**: Right now the tool is under a CLOSED RELEASE version 1.0.0.0, in order to be a part of this release join the Discord and ask politely then from there we'll see how things go.
+UPDATE 05/14/2020: Right now the tool is under a CLOSED RELEASE version 1.0.0.0, in order to be a part of this release join the Discord and ask politely then from there we'll see how things go.
 
 ### Info
 
