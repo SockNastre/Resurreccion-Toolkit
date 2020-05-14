@@ -20,7 +20,7 @@ All non-3rd party code, work, assets, and name from closed-source material are l
  - Mod manager supports installing many mods and has load order settings.
  - Much more!
 
-### Resurrección Editor (CLOSED RELEASE v1.0.0.0) Showcase
+### Resurrección Editor Showcase
 #### Texture Previewing:
 ![ResurrecciónEditorShowcase1](https://i.imgur.com/hI2tC4x.png)
 
