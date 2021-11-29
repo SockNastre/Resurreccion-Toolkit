@@ -1,10 +1,12 @@
 ## Resurrección Toolkit
 
-UPDATE: Right now the tool is under a CLOSED RELEASE version 1.0.0.0, in order to be a part of this release join the Discord and ask politely then from there we'll see how things go. The work here is also being considered to become OPEN SOURCE upon release, this is the most likely outcome but things may change.
+UPDATE: Right now this tool is under a CLOSED RELEASE version 1.0.0.0, in order to be a part of this release join the Discord and ask politely; from there we will see how things go. The work here is being considered to become OPEN SOURCE upon release, this is the most likely outcome although things may change.
+
+UPDATE 2: Current project is on hiatus until I am able to find the free time to work on it again. The project is planned for eventualy completion, however.
 
 ### Info
 
-Repo containing the releases of the Resurrección Editor and Resurrección Mod Manager, along with any other miscellaneous tools released as part of the toolkit. The purpose of this toolkit is to modify the game Bleach: Soul Resurrección/Ignition and it's demo releases; not modify as in cheats but modify as in textures, models, animations, etc.
+Repo containing the releases of the Resurrección Editor and Resurrección Mod Manager, along with any other miscellaneous tools released as part of the toolkit. The purpose of this toolkit is to modify the game Bleach: Soul Resurrección/Ignition and its demo release(s); not modify as in cheats but modify as in textures, models, animations, etc.
 
 Discord Support: https://discord.gg/2yfxG6X
 
